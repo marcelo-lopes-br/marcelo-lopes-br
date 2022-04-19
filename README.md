@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelo-lopes-br (Marcelo Lopes)
 - 👀 I’m interested in software development and related
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently improving my VueJS skills
 - 💞️ I’m looking to collaborate on anything I can help with :)
 - 📫 How to reach me: marcelo@benefitter.com or marceloalvescl98@gmail.com
 
